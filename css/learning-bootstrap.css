@@ -1,0 +1,16 @@
+.page-wrapper{
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+}
+ .col{
+     border: 1px solid black;
+ }
+ .container#test .row{
+     min-height: 30px;
+     background-color: peachpuff;
+ }
+
+ .container#test .col{
+     border: 1px solid red;
+ }
